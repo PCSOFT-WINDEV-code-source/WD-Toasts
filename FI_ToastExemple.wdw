@@ -1,0 +1,350 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_ToastExemple
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_ToastExemple
+ identifier : 0x2eb3c00404ea7484
+ internal_properties : CAAAAAgAAACtJMsN9dlNzsFxS8zm+OSpEwmYdprulfWVwPms0YLT6ehvPbWU455/0/c2XHhHKBMB62LQGwUW67IBOVHfW6XAWY6kt5AKWWeaRc/PVC1vpQ99kEmsg1V7ojhmwaaQQcYuAZ5SeTl+Y5dFih/xhPHQ8sh1y/dH0Dd7zu90Iea/9FACc0jp/bYCVtkiGKYp3lbfpLUjA6O99Hwtq4uLDi9ZRnWATCyNWSw6Bv/UsEp566Frl5i7E8I/0gkhPqjb16CagmhQMnl3I26U9/8C46OWNs5X9JSnLRJ0TMKrmGVLv5iHpAWVNKvM7iKuEkHWlzqU5aRpnOgJYCGCabIIy3R11kJ2oxMT/6XOJ5YWTmNZrRRvmlKhN81nmCUJC4ERld6W6Nyig7bgGMjIEjrJgVv96AzV1wq5Gpxr3lqAMYJoYuZ9qSKEY0f8xgMb6Cpfk3up23pq5D6LJgTL9z32q0QQpgq5MyfKhmZYXKEoZm9RtOpHOunv8hcR0SKp+3N4sCrZlL9k/c4d+QxCNpTVSztB182criD5hgiBuDy17MlT4ZWv3+kp7dmo+uCormCRfUB9NIFJHK0EA7kl7LcP3Lp/ZmWENsJF5FKzEd3OKae5CTH24Us/6lEFIgyGJvViffuyga1j/XMvQpb9DmQzTV67DstT5M7rjKoGJHBsZQyTBoDL+hjQKyhzEDP3kJd8xiEzD+Jrh3rN/SEwXHIUfftOQ/pzEUARGjtNYBDwCje186T6XjIYG1BAMsnb3sUYl9qdSonjKVNdMuuwVB63WPF/Nf5UMpOPxlORSHGxLJc=
+ properties :
+  width : 400
+  height : 300
+ controls :
+  -
+    name : FI_ToastExemple
+    identifier : 0x2eb3c00404eb7484
+    internal_properties : CAAAAAgAAAAhQYJSKcwy9A+UlYEC7gfqXjHPvgll7NQIGqNYWGzZfsk2WClo3hr4Ovbe/CkAEq/XapFtL5a7jmma/toTS13R+Cr4r99Y21aDdbX4kDvlH1Al1Ojpy4ByCpofXSOMi0knhK0/BCPQ+bvb63SOVXIWgFMnjy0xOWtqM8vkHCqvMGwgbly+xTNKMrBmvvyrES2CnmFMakXGaQyHF+D0558k+Sndlczc8FYN+CWFFv6sroVzBHDUidhMhSvpBcpWJGi0Yb2EXydrJdpF1aBU2d4cg4+K8hnjMzx6uaH1brpfkl7G3HkzdFURtF7PGYjy4C3VttXGQO5snZbGHYx6mDQmXJ0nz+DwXNAuqDM6xD/PwzJZdHXJFH6RXaGyY/vjll/YmWB0LXO5Bw4nX5o+rsfKCBL+fTSXd/eewvaAtgcMszKrIhanumAOgWtE5wakkq/D8ouCMx0HUiER5gnA+U9ZTTcTUZUgrhjiJLx/fJxdFckoIA==
+    properties :
+     width : 400
+     height : 300
+    controls :
+     -
+       name : IMG_Fond
+       identifier : 0x2eb3c24a068c5315
+       internal_properties : CAAAAAgAAAC9+yZuFwsZnsQj68ik9PDNTVQEPVdyYSE8kBsEovP0dbwQUVLTM1YtoPtPXtxG+LIyupE3jJ+RXklVGQSkZcJZeT0yWBxXe2cYWbQ9sD2gB60M0dQ1mouEkE7wHlUWgYYGyb3YnSWdpJpN7EVcdBAOWkHoVOH98+7FdZKrYXwI3Dr1ZFVKvtQPhIn6ku2PAGg9lW9pZ7Pr0jWOlogyDxMCTzBGn66hVMP8fIm3fXpjR23m1Ejm8mXWR+lQxKuwa8R/qyPDMPExXRmhZMFyT4n7DdOOXzm9YFg0YDJtTXHFz2PzhmPqRLI2XUmpmuO2PNCIUjLmoVU4O7dmOd6AqGkBrL719MIlIZm7UA2W8LLBEDwEfG09Z1KzQUWsoL+lrJeZv/3h5XzK2Y9o/E1JAgX7ldm9y396p5tEA4JxQdmzo+/no3ZE5oHQKdiy+4U/cG6Hp5o5IbgvlUccWyhplAiuRpMzp4/MdIoWbQ+0B/TpYZMjq1KE3GJY0qFxX3bVPbeOGj0dgjByiN5rTfPTINew25SWPmTXr5bxzslJYRGZmekAmkK160il6JM26nNU1i6z407GDgaYv7ccysYNsI8muzb++ny5V5Co2RETgqWYhsrN754cpDzy/ts1X2//TTspm0yxGDLbs8Mw98Tv1ks96nYIfSBUgOU6+XGPEkptDxQhYcRADBqy/Maw5uaFZug5bkHjdv+/w/r5K7MukmaPLn1DFVLysHPSM7VrlOlnqKjzoVNvKS/6LwxRM8oVUzLbdqOLMygPDdo+NDNI9BvAId+2J0cydX84UbnAOSywh5yIPSlmuZS5JGdoyEilKcOgTwC7jjmcrQ==
+       properties :
+        width : 400
+        height : 300
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Fond1
+       identifier : 0x2eb3c2a10887aa68
+       internal_properties : CAAAAAgAAACniNTrpAv66cmnJ4wY8KsZtZwJX2wgUb00sV/iqntJy4cgJ4KXyxWEy4l5lXcOLtLoOJA4fj58iAwfhUPM/mb3DDqzJ1lkcov/28BCy243y3x++7/puYPn7kKQ4NHH2idvua2SDUCXpqT82rojBMM4/e9KbLmqMNds6oInqTne3DCGMMcle5HbaNksccXfyhKaY/woxg7PqFxQ8Qwzwwh/NpXbZM55j5pzYjg5qhuZh5Uq/ubaS/cxDFj5LJJWAoDjXjVltZxQMclmRKTqS+oFQ6uWRjQjFUHpt3Nt3tu4YLLhrqaAVVW52lT4MV7hitWo7whYe2kDjAl8GrwkPAciCgMlOh7wJPLcE+mksz7qrYI42EYrJBgChRrCW5XN0AqF4kIfBmoXK3qb6UYPjwBa6JYUrSg/MQo2om3WuWUFdCIOkIBHyhXbQHPnd9yzM6Q/NeTjJxW5w+S6dx996CLJWzKuWBlVrCe6i+cJaBazNplK9YMpix6uxZ/79FtOiEbS5YiN5ASYK3Fl54g5E1HHXm6Sry6fekSqh9ILv5xhHjQkiLmWyxhG9c9x9sjp4Hn3A1e1t0Ek3iXh/e5YDZpqpBdJOS+IpGWcwY30hmm4lu1DyuOzs83EP3dBsdR37UeVHKlaEiaCtD9gdOnE8aUhn3TW6E+EnM8rhnLO1JOHac5kaB84Adz5/U6G
+       properties :
+        x : 68
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Dessin
+       identifier : 0x2eb3c2a1088baa68
+       internal_properties : CAAAAAgAAABKStlPIcvDn28snmSHtmqT3a2YDhz64I8SWfNLxeOUf9xjUNgZjZNbiiuxjTQmoS3Rtw9MXPKEfLciE582Bpzu+aPCOrtlG1f3vtvTZgoeh3UZr3tsV+t3JOP/A3dfkxih7qH5RCtaXD3usUbsnUpvBuW4haIy5tJxQ3IYT1qRI7LWFjyExeI4hlhKCrh/YgP7MOy/IDJQWjD1s4653EVscGETu+BvRINLNfegGPjNldTwmlEdmTyam0XSFHYMB4EGb4ivEudtUVIxmy1187eUHIYRiEZW+dyLxkBrkZ+fHaBKHhIkEd7oAeoIvE8oq2JRX0jt2Fs/zTIN/Cb0eATWNLqpKFz0qgPjzU7O+alZ0GGibSqjItBN3PqqRGxa2WjhlTiNP3bv5Cxb+JXhpGR10beBX6ZBcsWDCBs+kqfRZjpRnhXQA23UV5ViTqPcYBF5dlq6ZkserjO2/FREZNFxUFUaCX5xCOv2WGSIx5bYFdpWQ7rjDS6aeui7G/jH2wopgbASvZZ3mVkWe6aFrYlk804puZmCu2qM2aAK5zAkM6MX+8WOSxHOWDrhCRbQJL1rowfjGXHIcOkYtxiuyhFZWq7UvyvHZLFMvO5vkied
+       properties :
+        x : 68
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1+
+            // Version 1
+            // Description 
+            // Affichage d'une horloge
+            // Mise à l’heure temps réel automatique
+            // Affectation d’une heure en WLangage avec un DateHeure, Heure locale ou autre fuseau
+            
+            // Paramètres de dessin
+            nRayon 				est un entier = IMG_Dessin..Largeur / 2
+            
+            // Couleurs des aiguilles
+            nCoulSeconde 		est un entier = RGB(220, 56, 43)
+            nCoulMinute 		est un entier = RGB(55, 70, 73)
+            nCoulHeure 			est un entier = RGB(55, 70, 73)
+            nBlancTournant 		est un entier = 20
+            
+            // Taille et épaisseur des aiguilles
+            nTailleHeure 		est un entier = 0.70 * nRayon - nBlancTournant
+            nTailleMinute 		est un entier = 0.86 * nRayon - nBlancTournant
+            nTailleSeconde 		est un entier = 0.96 * nRayon - nBlancTournant
+            nEpaisseurHeure 	est un entier = 5
+            nEpaisseurMinute 	est un entier = 3
+            nEpaisseurSeconde 	est un entier = 1
+            
+            // Dessin de l'horloge
+            PROCÉDURE INTERNE DessineHorloge
+            	
+            	// Initialisation du dessin
+            	dDébutDessin(IMG_Dessin,dEffacer)
+            	dChangeMode(IMG_Dessin,dessinAntiAliasing)	
+            	
+            	// Heure à dessiner
+            	hHeureLocale est une heure = HeureSys()
+            	IMG_Dessin..Bulle = HeureVersChaîne(hHeureLocale,"HH:MM:SS")
+            	LIB_Heure = IMG_Dessin..Bulle	
+            	
+            	// Petite aiguille
+            	nAngleAiguille est un entier = ((( (hHeureLocale..heure modulo 12) * 60) + (hHeureLocale..Minute)) / 2) - 90
+            	dLigne(IMG_Dessin,nRayon + (Cosinus(nAngleAiguille) * nTailleHeure), nRayon + (Sinus(nAngleAiguille) * nTailleHeure), nRayon, nRayon, nCoulHeure, nEpaisseurHeure)
+            
+            	// Grande aiguille
+            	nAngleAiguille = (((hHeureLocale..Minute * 60) + (hHeureLocale..Seconde)) / 10) - 90
+            	dLigne(IMG_Dessin,nRayon + (Cosinus(nAngleAiguille) * nTailleMinute), nRayon + (Sinus(nAngleAiguille) * nTailleMinute), nRayon, nRayon, nCoulMinute, nEpaisseurMinute)
+            
+            	// Trotteuse
+            	nAngleAiguille = (hHeureLocale..Seconde * 6) - 90
+            	dLigne(IMG_Dessin,nRayon + (Cosinus(nAngleAiguille) * nTailleSeconde), nRayon + (Sinus(nAngleAiguille) * nTailleSeconde),nRayon, nRayon, nCoulSeconde, nEpaisseurSeconde)
+            
+            FIN
+            
+            // Dessine l'horloge une première fois
+            DessineHorloge()
+            
+            // Rappelle le dessin d'horloge chaque seconde
+            TimerSys(DessineHorloge,1s)
+           type : 14
+     -
+       name : IMG_Centre
+       identifier : 0x2eb3c2a1088faa68
+       internal_properties : CAAAAAgAAAArGs12NyYhgUz00orH8BxBCaJoOjnb+CmRum9obynB4Pca0l7EsaAu2GR1+Upry4SkAOlZG+3BDEn6haFXXoUg3ohpLs6hRW08GhRyzkqqaDhCLAotjCy9yydUNtbH+/4nE46f8NuEUMM17yowkHA7G+2PI3j9sbmlXFAPfO9jUjOv08UluX/EHwB5fDaF0CiF07kZR+fe4D+zMq2o+0hXsb2jkiMH0U/B7PQ+5oTB4OzPjkh6RUcTBYYu1KtxG7zUJ1g9WkgguINasdW21TBXHe+L7sDHe00aYM78RkxT3380+TzcPAGGrXHG22XiZRsjjESkKt+OBej+qujSWMZrF5K6oLPELS4jdI+Q7LKbeJHUIvL2kK9czZt4jaLPVuDOlUSKo0N4bh6B7os5PzMW2Q52iYj8KbWEXpPkg+TuxGBEDsfQcwujWEshp9HosJtCGFGso2uPpWEocifwHhLrnBIw9RVtTPYQ+L30JsSl5clU8JtXt+fNXR66vesW2XKUnCwpabf8izZik8/rbBSI3aUdaqQWt6qzhL6TC2aWBC94JOuCKytlSBkRAHhpN2l7gv98yzb3sz8pljGXUtCg8nQi6igJ3bVHSGQBaU8qwcGGDWUDPCFBH2gxhsDPFz46j9qXdjrbs5+BoBn5/KYzp/40ZX9vILubeZfM
+       properties :
+        x : 121
+        y : 111
+        width : 14
+        height : 14
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : LIB_Heure
+       identifier : 0x2eb3c2a10893aa78
+       internal_properties : CAAAAAgAAACrwtL+AaUEXPap0ESWBXe7OImJsb078FYYrVupjvE5szB5CS8xq2/6UhKipMB31hecOsTiov2qpDqdiajf5LnFLloUjFB5g2BsQg3UZKzboe2TxgR8UuiGPYjGMDmy0e/OAby+p5XlymIsWo5FbTy5EU6/2JE3hgA+Jh1OAYLv7bH9e7mCzD+KRuG01QTQd1U/WtZ9PV5UFoVnjXmkVXCBZPuCYL7hkCVK1vJGM1mODk4fncnl9tynsDkjTfRi5tO8L7IakTMhztHLzh89PqLR0wvz5Yb8Q+AL49zj0okU/Xo2dHz1UlLe2Ysd/yBEQKbq+AFLgnzinjJT+RuMYN8sVrWK7BzXPjf5IJg38b8Zes1aR+7A2pWDDznBOGOOF+xK0cS+//t5RsqH5RyD5UOJOSTxD7/mTFJ5IcB5kA6yTahH5mmw8W4PQSBTrPj+7oSaFwvzSM9Kstoiafer6rp2XUVexnYjrwoxrxWyJdwA80Qfwm5aRNqCZzyZiJsvhbixh/excwvEg24SUeo5qdt//XIV2soxCzvZaVadcKbc
+       properties :
+        x : 68
+        y : 135
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_FondFuseau
+       identifier : 0x2eb3c2a10895aa78
+       internal_properties : CAAAAAgAAAAUu4Oa6/pJfkostmGt+64snrsUyn/T5A55SpKnb74czpAvEr0usuyNPI4IRkC1ZZmhE6ffEWHfNbG4EGg5jbXiIQmW5pjDySgYePcvEK0eah3RkmaMlLbQU79DdQ4moWb8YJR5IEMK+zHZHasco/LXks5pX0iB7yS/fVSCaLO8urDQRlf9c1ubpAPkfcPv2rRm6TpQLm4h3EiCURg5txAxsnM1VDIdJS7/9Mi1eHNNxeGglCr+b42tjG5d5LS2jv4HhHtp/SyabU2ogKzcm3LHS32sWnxjX5SjR5tlMmdQVAaZshLk+bXZ9nSY4frtsvks32yUT4VrzMWk4oRwULeO1jsZBvputoS6PfdKiVTUOwzCVsSROkKkU+TgIUM7qvDnxKC9ZJg5VVC9/3T9rWKoUgh06PuSjmufk5At0HS0VUUvsytqfbL8SXheGg+e1rnOnldecuCusKErKka0p60m2hOpO+SgEYjztPI4z60S5xQn/LKggic3MjBeq2IlsyNhFrvQr4c1SLom2v+wjtQERVWFhANiR5sVOnVIfM+8W5srv7pvMpFJ8OJU63VMf4qeUj5GKNCV2Vi82MvtmAnLD3Ik1oTj6SBDUBxlN9jLq4DebUBQ3vLrFp54ep2+JHikI6BTK80r32pbf+b5rGBeWq+ZlZx3iTpGYV3b2Z7y1l3r55DJsI0oLD31
+       properties :
+        x : 212
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_DessinFuseau
+       identifier : 0x2eb3c2a10899aa78
+       internal_properties : CAAAAAgAAACODh0D3bePW6tmEbhZEsSdKU/879JA6tmpZv0HCheAcyJM3nUrQeXCD8drNoqUNPHIDSmh7KOJ9waSPNbOFPle/uVyWu9+LxPKApGx9pZgImWA3DglZqh/kCaXc5ATRaT6tp9eaEMxsrPmk50uCBIBt2MoWXk9VFS4WL5Omtjfzfrb5wF7SeNK61nRyhhMeVNaC/mLppTNl+6t5v/86ZlFqDYNEZfPvMlXS3betAI1+c7wsKXVOjgBxBspXkjLXNG0PHzPzhc1ZW4d8zWxu3dI6ML9MMK+EUBfekBjRd+3SaQ+ElrYiebCb+xa4nVWSbgH+ZJTurmVt5CPTgyS/vrEssx7duYaqOWJj/B019CmnbF34D9VkP9X6nUFW0uHpJui3Df6wdSLwBb3q8ZyPKzuDB3E0aeGIR2o3YCRCDIjQo9rHsdZ2eQ1P3v3KrqOxmVvg2mlxHKpHFeB9FYg1KoOxcX2ntMI+zYk2uaB5JX2U6qiBscmxfIu6xbWbSFVyUMCvkXZFj99WXOHKhOijKGugCGMw0I5/T/w1GHgaT5FmjFBTbrrtv09402K9Xzzyeo+UjELjeQc6BHMC02r1WbKLY+1vq2LIO2IeCorVmPZ
+       properties :
+        x : 212
+        y : 58
+        width : 120
+        height : 120
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAAB+eToEL5pFuPOuU84it4yv24DRTUS1FB5Zw6dz1T+GT4d4fNmtTZevfgqbGQWi7yQXIP+Ps/XNTHeIelX3iJvDAOui71IG64jdgZoI3ehBxdb9vIW9BX1D/5XH5hS35gnqMVMn15EUHa5H7w==
+           code : |1+
+            // Choix du fuseau parmi ceux définis par l'IANA Time Zone Database (à changer selon préférence)
+            // par ex :
+            // Africa/Abidjan
+            // Africa/Accra
+            // Africa/Addis_Ababa
+            // Africa/Algiers
+            // Africa/Asmara
+            // Africa/Bamako
+            // etc
+            LIB_Autre_fuseau = <§$0000§>
+            
+            // Paramètres de dessin
+            nRayon 				est un entier = IMG_DessinFuseau..Largeur / 2
+            
+            // Couleurs des aiguilles
+            nCoulSeconde 		est un entier = RGB(220, 56, 43)
+            nCoulMinute 		est un entier = RGB(55, 70, 73)
+            nCoulHeure 			est un entier = RGB(55, 70, 73)
+            nBlancTournant 		est un entier = 20
+            
+            // Taille et épaisseur des aiguilles
+            nTailleHeure 		est un entier = 0.70 * nRayon - nBlancTournant
+            nTailleMinute 		est un entier = 0.86 * nRayon - nBlancTournant
+            nTailleSeconde 		est un entier = 0.96 * nRayon - nBlancTournant
+            nEpaisseurHeure 	est un entier = 5
+            nEpaisseurMinute 	est un entier = 3
+            nEpaisseurSeconde 	est un entier = 1
+            
+            // Dessin de l'horloge
+            PROCÉDURE INTERNE DessineHorloge
+            	
+            	// Initialisation du dessin
+            	dDébutDessin(IMG_DessinFuseau,dEffacer)
+            	dChangeMode(IMG_DessinFuseau,dessinAntiAliasing)	
+            	
+            	// Heure à dessiner
+            	dhDateHeureFuseau est un DateHeure = DateHeureLocaleVersFuseau(DateHeureSys(),LIB_Autre_fuseau)
+            	hHeureFuseau est une heure	= dhDateHeureFuseau..PartieHeure
+            	IMG_DessinFuseau..Bulle = HeureVersChaîne(hHeureFuseau,"HH:MM:SS")
+            	LIB_HeureFuseau = IMG_DessinFuseau..Bulle	
+            	
+            	// Petite aiguille
+            	nAngleAiguille est un entier = ((( (hHeureFuseau..heure modulo 12) * 60) + (hHeureFuseau..Minute)) / 2) - 90
+            	dLigne(IMG_DessinFuseau,nRayon + (Cosinus(nAngleAiguille) * nTailleHeure), nRayon + (Sinus(nAngleAiguille) * nTailleHeure), nRayon, nRayon, nCoulHeure, nEpaisseurHeure)
+            	
+            	// Grande aiguille
+            	nAngleAiguille = (((hHeureFuseau..Minute * 60) + (hHeureFuseau..Seconde)) / 10) - 90
+            	dLigne(IMG_DessinFuseau,nRayon + (Cosinus(nAngleAiguille) * nTailleMinute), nRayon + (Sinus(nAngleAiguille) * nTailleMinute), nRayon, nRayon, nCoulMinute, nEpaisseurMinute)
+            	
+            	// Trotteuse
+            	nAngleAiguille = (hHeureFuseau..Seconde * 6) - 90
+            	dLigne(IMG_DessinFuseau,nRayon + (Cosinus(nAngleAiguille) * nTailleSeconde), nRayon + (Sinus(nAngleAiguille) * nTailleSeconde),nRayon, nRayon, nCoulSeconde, nEpaisseurSeconde)
+            	
+            FIN
+            
+            // Dessine l'horloge une première fois
+            DessineHorloge()
+            
+            // Rappelle le dessin d'horloge chaque seconde
+            TimerSys(DessineHorloge,1s)
+            
+           type : 14
+     -
+       name : IMG_CentreFuseau
+       identifier : 0x2eb3c2a1089daa78
+       internal_properties : CAAAAAgAAAAR8IcM0Uy/d3Im6MDtVjJnd4C6eHuZPnfPbFU2xb83FoWAdLQO/x7spr7D7zhxqZrCHkv3zTO3YvcMCzcFJDNCOPpPIMRLP4emgLaUqHx0okK8yvQDhia3zQ1eyHB5tfCZ3cSJ7pUmgjUjCYyyEvollb+9Ra5XW/MfX4tHvvplbtNHr+1ZKcusH/B5XI6N1Bwds32RK29C+K8zOgUIw/QzSaU30o+XJZcB7LxeRqwlLCSfijCWzRvD7b52ZBsJByh8f0wNTngkqJsCocWOnQwb9c/tdMjTS0HW5GrIqjjrV3sg8SDUCFESWUWi52HmjRsnkKzIcgNeybTS/mxuNKSF8ahgbg2iAwT1jpWO7qCZepM6kBi4jk3qRx3mC8TdVCLQ+wJA1QketCqz5PmjJdHoi1Rkh2LiL6uOWIEqzSok9rIibEWa6SlhgmUPfaueBm1UJofiXWntExPaeGVyDBClFsDmSwczGjSqmgNy4Kq7/3OKJvEBzfXrtxhI0+1kCSJ0zKJbk5VOTfxwiXG1ol5eg+szbG4UqayJ0iSlRUy48o32gnX8qa3X9o+PksoXgT/RYCVO3SxRLb2/9JMxqHrOgPq4RMK3j+e15oIjS20UL6/04x9F8tv7xc6XGFJdgaSAVRDhOHgddV3Pfnsb2kBJXTTiN6kFutXhP+22
+       properties :
+        x : 265
+        y : 111
+        width : 14
+        height : 14
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : LIB_HeureFuseau
+       identifier : 0x2eb3c2a108a1aa87
+       internal_properties : CAAAAAgAAADFrCwYU/tGmrDrEoZURyn9ekvLawfhqsRqX/Vz1COTNUp7O/HrYUlYvDxqtmqZKMUCsIo8eDu0TiB7uwIBNsvLBGjKNmbnrRqygPeeBk4N9xPhlDYKvB3JRMdlh/r5EIjhZCmBIHI6aQFTbdlatAcOQIVAX4K0S4ex+ZyFehG2psRgrNBrYYiRwTyjDDGLvpayzbMI2rNNTUBydBy1UAOuB+5Pk5/KEZQBraEdbBTZ23UVudDE8dwnsLkjTXTi5lM8L7IaEbOhzlHLTp89PiKRk0uzJUa8AyBLI5yjkslUvTp2NLy1EhIeGc3fq4TU4uquOssBoABoOl4Nc5t0gMkwWr+cykrvcOfpTrbLTUOPUqWgVSC+Ot+rp69XIGtKtQTib2p4USePIlZhP0SL7WVFdd4jnW22DlIhl2YJSF68ObRJ6NdO5WQDdXAjHGhqdhCGf+ObvNta/tbKkZfj3lr6cW1+pjIXp77ljwWCzUAAt7ingr64JrjggQbTVqkx+zILWcFnyf2y8ZjMm6D36xk5NzRXGIhzSfmbqyjDXsgy
+       properties :
+        x : 212
+        y : 135
+        width : 120
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Heure_locale
+       identifier : 0x2eb3c2a108a3aa87
+       internal_properties : CAAAAAgAAADLsGaDVPfcixpPHe7L585GWkqgjImAcQpyBVhjusGxfy5ckVX5eXEo2z34QV/f00t6Rm9TwMpSDbhbvOfS1SFMZUTPQ6mD2xoqIPAAwREN/l5BE/LzoPmYMFKrKqGTYHwC2mzn7P7mA5BExpJzksk3D1LCSk4ZAJcFdMik7Pc/XFRBngRXegu94l1O6HZMg6VBL1WRToPZ7m5PrwFn5vXMsaZisDqvsVoBdUwF0glRIdxq3k5LP/lB4+ZkY+toXAae1rUMDB76n+bJd6xyzlBcJzxNWhXy0r8dnVhEvOSMFarZcdmzWZUhPRwdF3wF2UHqdFsMZp9lT6gJrXtJ5B3G4ojOlc2sAzRlsh13pRnI/1HeIq+Np6YAHI7v9Z9cdB4+JZkn7D9iRHYwpuEn80Id7AM8N+NtUaK8SSvuUZOp2+3wEOAU2qX1+64FYc1Zd4WNFaDxloZJJbOI+nZUnGMZScabJPcinMlHpkIR+7x8m3qj1itsm8o0VzSDVVFUcasucaaR
+       properties :
+        x : 68
+        y : 20
+        width : 120
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Autre_fuseau
+       identifier : 0x2eb3c2a108a5aa87
+       internal_properties : CAAAAAgAAACw7S7uGEMo325Xw2MROt+MnTbVrn46HlKqWa5mz80VJGIfsWBjrCCXCmp8uJ0w2n3tx5IcONENVvgMjdidfReodfA0kFjCzvpDFpgIwht3w8J5lCDOA1hw6LOSK/fCLgYaPCxxZx3ucqqLFv9SsGBYDPLVXQEfmciiKNxk/uNsThCVUceYxhzaNZhLFKcasKXWr2A/AOmaoQ7CFjKH4Lasl5++uy89k52j8QL57yXgeiMtXVYEngdQW7+ZAOWRO+l1eREn1HIpHamWGg4X//EEdaq4TNNQDYVyzLtw8XF1nYatapNhV8T1KFGQUwfg8vks5sQirjPWq7nUSjV4VxhG0FbxxQGkDLjSLeIHTsLHC++0F+fvET1AQdH+XVwBy3rq2QLfsN/lrPdXBfNM4FGpvoXHL00vRiIbtmryzkCcb22Y/bAqQOD3wdZ3qvHo7gtJZDGVGfIwLTgcLtLXl0SkAJ8ho+l0zPzKSDa00Tll8wp+ZiwkgIXsTZpcMorgUQKpIAV7ViGhsA==
+       properties :
+        x : 212
+        y : 20
+        width : 120
+        height : 32
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+     -
+       name : LIB_Exemple_de_toast_personnalisé
+       identifier : 0x2eb3c2b70987fd99
+       internal_properties : CAAAAAgAAADVwQ5RejzotTEva22v+iZJ+QhYmMwJ28a39zw4LbJ38jLcC0hbLRY/Khs/I5jnQL0zDAanl/O4zffOf69qGpuTq2RI4q4wLNm6F8xYn4jfOlIkFia2Z9tX85IicjCFyzU/xZN0G1gEGBkIv5b09H+Kcm216Um55tt44IRwl/c1YfPnwaZ4FcQdBt4LGL6tvjc3Q+HmwHoJH3H0n2KlFiDAL9AkXAiKXjhJpTNKcp+bruQl6IZTeV/2dC3n5Pk0EqNRYwjI7N0xXYHH73eeOx5twh3oLNnUsrjSbqz67vxKkWdiIBgCndW6MSSR2NCic08JFEG+dFx+LsVKQzVtbvT05sDsfxvS/w2k0OKNImpNHkJtfXzpxh5WRYqi+ZnNjZiCRj/JrCfwKhv4DHYT29murOyc63N7AEjTg6xZv6tdnvh6vU9ftgMUgaMycZYCYJ9oSm5Yu4gVLplVYLBqZuiSeuXY5axLuvnGDE0sBKqSlnxQ0/v2HW5QXLAQjnP9Q+FFJaD5Tct4gBMMGfv5cZS/k7dFQL1xA4AkMnVCcwudpN6r/nkI4YJtdQOyHqhRKdNwUNDYMpbmrnPTwfb8SpGk1VIz7c0k3INzscRUYVlNqTIkdTkCAqYinQf4DlY66LkFWFP5ZXHG
+       properties :
+        x : 8
+        y : 208
+        width : 386
+        height : 77
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1+
+            // Version 1
+            // Description 
+            // Libellé pour écrire un titre
+           type : 14
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre( local gsImageFond est une chaine )
+         
+         IMG_Fond = gsImageFond
+         
+ menu :
+  name : _Menu
+  identifier : 0x2eb3bff804e7444c
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1eb3bff800bc444c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : America/New_York
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
